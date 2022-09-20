@@ -13,5 +13,6 @@ public class Dog implements Eat {
     public void eat() {
         System.out.println("eating...");
         System.out.println("sfsfsf");
+        System.out.println("hotfix");
     }
 }
