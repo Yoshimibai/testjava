@@ -12,5 +12,6 @@ public class Dog implements Eat {
     @Override
     public void eat() {
         System.out.println("eating...");
+        System.out.println("sfsfsf");
     }
 }
