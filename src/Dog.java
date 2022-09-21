@@ -19,5 +19,6 @@ public class Dog implements Eat {
         System.out.println("master test2");
         System.out.println("sfsfs");
         System.out.println("master test3");
+        System.out.println("master test4");
     }
 }
